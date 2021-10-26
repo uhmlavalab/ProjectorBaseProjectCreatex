@@ -20,4 +20,4 @@ this boundary will be very close to the cameras, so it is suggested to place env
 4- If you want to write your own camera controller, remember to take the standard Simple Camera Controller script off of the Wall Camera Rig gameobject.
 This script otherwiase controls the movement of the camera rig using a WASD-scheme.
 
-![Alt text](/createxinstructions.png?raw=true "Optional Title")
+![Alt text](/createxwallexplanation.png?raw=true "Optional Title")
